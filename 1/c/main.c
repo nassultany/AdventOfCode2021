@@ -28,7 +28,7 @@ int main(int argc, char **argv) {
 	printf("The result is: %d\n", result);
 	return 0;
 
-// -------------------------- PART 2 (pass file in cmd line arg) --
+// -------------------------- PART 2  ------------------------------
 problem2:;
 	int measurements[MAX_MEASUREMENTS];
 	int count = 0;
