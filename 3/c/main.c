@@ -87,7 +87,7 @@ int main(int argc, char **argv) {
 
   	for(int j=0; j<numchars; j++) {
 		zeros_oxygen = 0, ones_oxygen = 0, zeros_co2 = 0, ones_co2 = 0; // keep count of digits
-		int total_entries = 0;
+
   	  	for(int i=0; i<count;i++) {
   	  	  	if (report2[i].category == OXYGEN || report2[i].category == UNDEFINED) {
 	  	  		if (report2[i].value[j] == '0')
