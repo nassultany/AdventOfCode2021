@@ -7,4 +7,4 @@ I want to practice.
 
 To test them out, just head to the C/ directory for any day, and do `make test` to 
 run on the sample input, or `make run` to run on my input. Change the `#define PROBLEM x`
-to x=1 or x=2 depending on which problem you want to solve.
+to x=1 or x=2 depending on which problem you want to solve (in main.c).
